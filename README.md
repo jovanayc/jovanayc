@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jovanayc
-- 👀 I’m interested in web development and animation
-- 🌱 I’m currently learning html/css/javascript with Flatiron School
+- 👀 I’m interested in back end web development and lower-level engineering
+- 🌱 I’m currently learning html/css/javascript through personal beginner projects
 - 💞️ I’m looking to collaborate on beginner web dev projects
 - 📫 How to reach me linkedIn: Jovanay Carter
 
