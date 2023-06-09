@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @jovanayc
-- 👀 I’m interested in back end web development and lower-level engineering
-- 🌱 I’m currently learning html/css/javascript through personal beginner projects
-- 💞️ I’m looking to collaborate on beginner web dev projects
-- 📫 How to reach me linkedIn: Jovanay Carter
+- 👀 I’m interested in back end engineering, machine learning, and web development.
+- 🌱 I’m currently learning c++ through Tandon Bridge Program at NYU
+- 📫 How to reach me linkedIn: @Jovanay-Carter
 
 <!---
 jovanayc/jovanayc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
