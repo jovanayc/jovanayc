@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jovanayc
-- 👀 I’m headed towards a masters in CS this fall through UChicago
-- 🌱 I’m currently learning c++ through Tandon Bridge Program at NYU & practicing python coding challenges for interviews
+- 👀 I’m studying a masters in Computer Science with University of Chicago (June 2025 Expected Grad)
+- 🌱 I’m currently working on Server-client architecture for networks.
 - 📫 How to reach me linkedIn: @Jovanay-Carter
 
 <!---
